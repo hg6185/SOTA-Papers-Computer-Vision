@@ -1,4 +1,4 @@
-# SOTA-Papers-Computer-Vision
+# Papers: Computer Vision
 This repo contains a (non-exhaustive) SOTA Papers Computer Vision, mainly focussed on Object Detection. If you like it / it helps your research, i'm happy :)
 
 DISCLAIMER: I'm not sure about the structure, yet, so the categories might change.
